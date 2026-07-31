@@ -1,0 +1,26 @@
+# Archivos compilados de Java
+*.class
+
+# Carpeta generada por compilación
+bin/
+out/
+
+# Archivos temporales
+*.log
+*.tmp
+
+# Configuración de VS Code
+.vscode/
+
+# Archivos del sistema Windows
+.DS_Store
+Thumbs.db
+
+# Archivos de configuración personal
+.settings/
+.project
+.classpath
+
+# Archivos generados por IDE
+.idea/
+*.iml
