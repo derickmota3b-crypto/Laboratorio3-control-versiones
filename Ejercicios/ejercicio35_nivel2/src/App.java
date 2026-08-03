@@ -7,7 +7,7 @@ public class App {
         try {
             cuenta.setSaldo(1000);
             cuenta.depositar(500);
-            cuenta.retirar(1600);
+            cuenta.retirar(1000);
 
             System.out.println("Saldo: Q" + cuenta.getSaldo());
 
